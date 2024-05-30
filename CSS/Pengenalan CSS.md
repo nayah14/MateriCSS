@@ -32,7 +32,7 @@ warna teks (text color) dari elemen HTML yang memiliki tag P akan diubah menjadi
 ```
 
 ## Hasil
-![[Screenshot14.png]]
+![](asetcss/Screenshot14.png)
 
 ## Penjelasan
 1. `<!DOCTYPE html>`: Mendefinisikan jenis dokumen HTML yang digunakan, dalam hal ini HTML5.
