@@ -58,21 +58,21 @@ warna teks (text color) dari elemen HTML yang memiliki tag P akan diubah menjadi
 ```
 ## Font-size
 ### Before
-![[CSS/aset css/Screenshot(7).png]]
+![](asetcss/Screenshot(7).png)
 ### After
-![[CSS/aset css/Screenshot(6).png]]
+![](asetcss/Screenshot(6).png)
 
 >[!faq]- Apa itu font-size?
 >Font-size adalah property CSS yang berfungsi untuk mengatur ukuran font.
 
 ## Border
 ### Before
-![[CSS/aset css/Screenshot(7).png]]
+![](asetcss/Screenshot(7).png)
 
 
 
 ### After
-![[CSS/aset css/Screenshot(6).png]]
+![](asetcss/Screenshot(6).png)
 
 >[!faq]- Apa itu Border?
 >Border merupakan property CSS yang berguna untuk mengatur garis pinggir dari tombol.
@@ -80,9 +80,9 @@ warna teks (text color) dari elemen HTML yang memiliki tag P akan diubah menjadi
 
 ## Font-family
 ### Before
-![[CSS/aset css/Screenshot(7).png]]
+![](asetcss/Screenshot(7).png)
 ### After
-![[CSS/aset css/Screenshot(6).png]]
+![](asetcss/Screenshot(6).png)
 
 >[!faq]- Apa itu font-family?
 >font-family adalah property CSS yang berfungsi untuk mengubah jenis font.
@@ -276,7 +276,7 @@ ID dalam CSS merujuk pada identifikasi unik dari sebuah elemen HTML. Setiap elem
      }
 ```
 ### Hasil
-![[CSS/aset css/Screenshot(8).png]]
+![](asetcss/Screenshot(8).png)
 ### Kesimpulan
 Text-decoration adalah fitur CSS yang digunakan untuk menambahkan dekorasi pada teks, seperti garis bawah, garis atas, dan garis melalui.
 ## Text transform
@@ -292,7 +292,7 @@ Text-decoration adalah fitur CSS yang digunakan untuk menambahkan dekorasi pada 
   }
 ```
 ### Hasil
-![[CSS/aset css/Screenshot(9).png]]
+![](asetcss/Screenshot(9).png)
 ### Kesimpulan 
 Text-transform adalah fitur CSS yang digunakan untuk mengubah tampilan teks, seperti huruf besar, huruf kecil, dan huruf kapital.
 
@@ -327,7 +327,7 @@ background-color merupakan properti css yang mengatur warna latar belakang halam
 
 
 ### Hasil
-![[CSS/aset css/Screenshot(2).png]]
+![](asetcss/Screenshot(2).png)
 ### Kesimpulan
 Merupakan properti CSSyang memberikan warna pada latar belakang web
 ## Background-image
@@ -347,7 +347,7 @@ body {
 </body>
 ```
 ### Hasil
-![[CSS/aset css/Screenshot(10).png]]
+![](asetcss/Screenshot(10).png)
 ### Kesimpulan
 merupakan property CSS yang dapat mengatur gambar pada latar belakang web.
 ## Background-repeat
@@ -368,7 +368,7 @@ body {
 </body>
 ```
 ### Hasil
-![[CSS/aset css/Screenshot(11).png]]
+![](asetcss/Screenshot(11).png)
 ### Kesimpulan
 Background-repeat adalah properti yang digunakan untuk mengulang gambar latar belakang atau tidak.
 ## Background-attachament
@@ -407,7 +407,7 @@ body  {
 </html>
 ```
 ### Hasil
-![[Screenshot15.png]]
+![](asetcss/Screenshot15.png)
 ### Kesimpulan
 background tersebut digunakan untuk  menambahkan gambar tetapi halaman tersebut tdk dapat digulir ke halaman berikutnya
 # FONT
@@ -429,7 +429,7 @@ font-size merupakan properti css yang digunakan untuk mengatur ukuran font.
 </body>
 ``` 
 ### Hasil
-![[CSS/aset css/Screenshot(3).png]]
+![](asetcss/Screenshot(3).png)
 ### Kesimpulan
 font-size merupakan properti yang digunakan untuk mengatur seberapa besar atau kecil ukuran font yang di inginkan.
 ## font-weight
@@ -450,7 +450,7 @@ font-weight adalah properti CSS yang dapat mengubah ketebalan sebuah teks.
 </body>
 ```
 ### Hasil
-![[CSS/aset css/Screenshot(13).png]]
+![](asetcss/Screenshot(13).png)
 ### Kesimpulan
 font-weight adalah properti yang digunakan untuk mengatur ketebalan teks sesuai keinginan.
 
@@ -473,7 +473,7 @@ font-style merupakan properti CSS yang mengatur gaya dari teks, seperti kemiring
 </body>
 ```
 ### Hasil
-![[Screenshot(4).png]]
+![](Screenshot(4).png)
 ### Kesimpulan
 font-style digunakan untuk mengatur gaya dari sebuah  teks
 
@@ -489,7 +489,7 @@ font-family: 'Courier New' , Courier, monospace
 ```
 
 ### Hasil
-![[CSS/aset css/Screenshot(12).png]]
+![](asetcss/Screenshot(12).png)
 
 ### Kesimpulan
 Font-family adalah property CSSS yg digunakan untuk mengatur jenis text.Font-family juga dapat menampung beberapa nama font  sesuai selera,jika font pertama tidak terbaca maka font selanjutnya  akan dijalankan,Nama font harus dipisah dengan tanda koma
@@ -509,7 +509,7 @@ border-color: red;
 }
 ```
 ### hasil
-![[Screenshot26 (2).png]]
+![](asetcss/Screenshot26(2).png)
 ### kesimpulan
 kesimpulan kode tersebut `div { border-color: red; }` adalah bahwa semua elemen `<div>` pada halaman web akan memiliki border dengan warna merah.
 Dengan kode tersebut, setiap elemen `<div>` akan memiliki border dengan lebar default (biasanya 1 piksel), gaya default (biasanya solid), namun warna bordernya akan diatur menjadi merah. Ini berarti elemen `<div>` akan memiliki garis pinggiran berwarna merah mengelilingi seluruh elemennya.
@@ -636,7 +636,7 @@ p{
  }
 ```
 ## Hasil
-![[Screenshot25 (2).png]]
+![](Screenshot25(2).png)
 ## Kesimpulan
 Paragraf :
 - `Teks besar dan miring` : Ukuran font 75px dan gaya font `italic` membuat teks paragraf menonjol dan terlihat formal.
@@ -697,7 +697,7 @@ a:hover {
 </html>
 ```
 ### Hasil
-![[Screenshot16.png]]
+![](asetcss/Screenshot16.png)
 ## Active
 ### Penjelasan 
 Digunakan untuk mengganti tampilan elemen saat elemen tersebut sedang aktif atau ditekan, seperti tombol yang sedang ditekan.
@@ -739,7 +739,7 @@ a:active {
 </html>
 ```
 ### Hasil
-![[Screenshot17.png]]
+![](asetcss/Screenshot17.png)
 
 ## Visited
 ### Penjelasan
@@ -781,7 +781,7 @@ a:visited {
 </html>
 ```
 ### Hasil
-![[Screenshot18.png]]
+![](asetcss/Screenshot18.png)
 # Transition
 ## Transition-property
 ### Penjelasan
@@ -829,7 +829,7 @@ div:hover {
 </html>
 ```
 ### Hasil
-![[Screenshot19.png]]
+![](asetcss/Screenshot19.png)
 ## Transition-duration
 ### Penjelasan
 Properti ini `transition-duration`menentukan berapa detik (s) atau milidetik (ms) yang diperlukan untuk menyelesaikan efek transisi.
@@ -877,7 +877,7 @@ div:hover {
 ```
 
 ### Hasil
-![[Screenshot20.png]]
+![](asetcss/Screenshot20.png)
 
 ## Transition-timing function
 ### Penjelasan
@@ -929,7 +929,7 @@ div:hover {
 ```
 
 ### Hasil
-![[Screenshot21.png]]
+![](asetcss/Screenshot21.png)
 # Tantangan Transition
 ## Penjelasan
 1. `body`:
@@ -1076,7 +1076,7 @@ body {
 ```
 
 ## Hasil
-![[Screenshot29 (2).png]]
+![](asetcss/Screenshot29(2).png)
 ## Kesimpulan
 Latar belakang body akan memiliki warna `RGB (248, 210, 163)` yang merupakan kombinasi dari merah, hijau, dan biru.
 Lebar body akan setara dengan 100% lebar viewport (area tampilan browser).
@@ -1172,7 +1172,7 @@ Saat tombol dihover, latar belakangnya akan berubah menjadi lightcyan, teksnya a
 
 ```
 ### Hasil
-![[Screenshot22 1.png]]
+![](asetcss/Screenshot221.png)
 
 # Flexbox
 ## FLEX-CONTAINER
@@ -1202,7 +1202,7 @@ Flex container adalah elemen induk yang mengatur tata letak flex item-nya. flexb
 ```
 
 ### Hasil
-![[Screenshot26 (4).png]]
+![](asetcss/Screenshot26(4).png)
 ## FLEX-ITEM
 ### Penjelasan
  Dalam konteks Flexbox, elemen-elemen dianggap sebagai flex items (item fleksibel), dan mereka diatur dalam satu dimensi (baris atau kolom) menggunakan properti-properti Flexbox.
@@ -1223,7 +1223,7 @@ Flex container adalah elemen induk yang mengatur tata letak flex item-nya. flexb
 ```
 
 ### Hasil 
-![[Screenshot26 (4) 1.png]]
+![](asetcss/Screenshot26(4)1.png)
 ### Kesimpulan
 Kesimpulannya, dalam CSS Flexbox, elemen-elemen dianggap sebagai flex items (item fleksibel) dan dapat diatur menggunakan properti-properti Flexbox.
 
@@ -1406,7 +1406,7 @@ button:active {
 }
 ```
 ## Hasil
-![[Screenshot28 (3).png]]
+![](asetcss/Screenshot28(3).png)
 # Position
 ## Position relative
 ### Penjelasan
@@ -1416,7 +1416,7 @@ button:active {
 .box { position: relative; top: 10px; left: 10px; width: 100px; height: 100px; background-color: red; }
 ```
 ### Hasil
-![[Screenshot25 (3).png]]
+![](asetcss/Screenshot25(3).png)
 ### Kesimpulan
 memungkinkan pengguna untuk mengatur posisi elemen dengan properti top, right, bottom, atau left
 ## Position absolute
@@ -1428,7 +1428,7 @@ memungkinkan pengguna untuk mengatur posisi elemen dengan properti top, right, b
 
 ```
 ### Hasil
-![[Screenshot26 (3).png]]
+![](asetcss/Screenshot26(3).png)
 
 ### Kesimpulan
  hanya berpengaruh pada elemen yang diatur, tidak akan berpengaruh pada posisi elemen lain.
@@ -1445,7 +1445,7 @@ memungkinkan pengguna untuk mengatur posisi elemen dengan properti top, right, b
 }
 ```
 ### Hasil
-![[Screenshot27.png]]
+![](asetcss/Screenshot27.png)
 
 ### Kesimpulan
 Untuk menetapkan posisi suatu elemen
@@ -1463,7 +1463,7 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 }
 ```
 ### Hasil
-![[Screenshot28 (2).png]]
+![](Screenshot28(2).png)
 ### Kesimpulan
 `position: sticky` akan bergulir seperti normal hingga mencapai titik tertentu 
 # Tantangan Position
@@ -1683,7 +1683,7 @@ Posisi sticky adalah cara efektif untuk mengubah posisi elemen dengan kecil atau
 ```
 
 ## Hasil
-![[screenshot30.jpeg]]
+![](asetcss/screenshot30.jpeg)
 
 ## Kesimpulan
 - Kontainer tersebut memiliki posisi statis dan akan mengisi lebar penuh dari elemen induknya.
